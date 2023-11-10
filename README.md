@@ -15,7 +15,7 @@ pip install pandas bar_chart_race
 ```
 
 ## Data
-The dataset (Pollution.csv) includes information about the aerosol absorption index in different regions of Kazakhstan from 2017 to 2022.
+The dataset (Pollution.csv) includes information about the aerosol absorption index in different regions of Kazakhstan from 2017 to 2023.
 
 Columns:
 - year: The year of the data
@@ -39,6 +39,6 @@ The bar chart race visually represents the changes in aerosol absorption index o
 The animated map provides a dynamic representation of the aerosol absorption index on a geographical map of Kazakhstan. This additional visualization adds context to the regional variations in pollution levels.
 
 ## Conclusion
-Explore the visualizations to gain insights into the trends and patterns of aerosol absorption index in different regions of Kazakhstan from 2017 to 2022. The combination of bar chart race and animated map offers a comprehensive understanding of the atmospheric pollution scenario in the country.
+Explore the visualizations to gain insights into the trends and patterns of aerosol absorption index in different regions of Kazakhstan from 2017 to 2023. The combination of bar chart race and animated map offers a comprehensive understanding of the atmospheric pollution scenario in the country.
 
 Original code by [TyuninaA]
