@@ -31,12 +31,12 @@ python code.py
 
 The generated bar chart race will be saved as Pol_bar_race.mp4 in the current directory.
 
-### Visualization
-# Bar Chart Race
+# Visualization
+## Bar Chart Race
 The bar chart race visually represents the changes in aerosol absorption index over the years for each region in Kazakhstan. Parameters such as title, orientation, sorting, and color mapping have been customized to enhance the visual experience.
 
-### Animated Map
+## Animated Map
 The animated map provides a dynamic representation of the aerosol absorption index on a geographical map of Kazakhstan. This additional visualization adds context to the regional variations in pollution levels.
 
-### Conclusion
+## Conclusion
 Explore the visualizations to gain insights into the trends and patterns of aerosol absorption index in different regions of Kazakhstan from 2017 to 2022. The combination of bar chart race and animated map offers a comprehensive understanding of the atmospheric pollution scenario in the country.
