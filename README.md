@@ -40,3 +40,4 @@ The animated map provides a dynamic representation of the aerosol absorption ind
 
 ## Conclusion
 Explore the visualizations to gain insights into the trends and patterns of aerosol absorption index in different regions of Kazakhstan from 2017 to 2022. The combination of bar chart race and animated map offers a comprehensive understanding of the atmospheric pollution scenario in the country.
+Original code by [TyuninaA]
