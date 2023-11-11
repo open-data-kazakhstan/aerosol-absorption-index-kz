@@ -3,7 +3,7 @@ import pandas as pd
 import bar_chart_race as bcr
 
 # Загрузка данных из CSV-файла
-df = pd.read_csv('Pollution.csv', dtype={'year': str})
+df = pd.read_csv('Data/Pollution.csv', dtype={'year': str})
 
 # Установка столбца 'year' в качестве индекса DataFrame
 df = df.set_index('year')
